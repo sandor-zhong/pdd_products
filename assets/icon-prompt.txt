@@ -1,0 +1,7 @@
+Generated with the built-in image_gen tool.
+
+Final prompt:
+Use case: logo-brand. Asset type: production Windows desktop application icon for a Chinese product catalog organizer named 商品资料台. Create one polished square app icon with a transparent background outside the rounded-square tile. A rich cobalt blue rounded-square tile with subtle depth and soft clean highlights, containing a simple crisp white product package/carton symbol combined with a small white catalog/list card with three blue horizontal rows and a small orange corner tab. Balanced centered composition filling the tile; bold readable silhouette at 16–48px, generous interior margins. Modern professional productivity software, restrained premium flat design with very subtle dimensional shading, clean edges. No lettering, no words, no numbers, no watermark, no surrounding scene, no multiple variants, no floor or cast shadow outside the tile. The icon should be suitable for Windows taskbar, desktop shortcut, and installer. High resolution 1024x1024, preserve genuine transparent alpha outside the rounded corners.
+
+app-icon.png is the original generated asset. app-icon.ico contains Windows
+icon sizes 16, 24, 32, 48, 64, 128 and 256 pixels, converted using Pillow.

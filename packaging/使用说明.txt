@@ -1,0 +1,13 @@
+商品资料台 1.0.2
+
+双击桌面或开始菜单中的“商品资料台”启动。
+点击“导入 Excel”或将 .xlsx / .xlsm 拖入窗口，按款式汇总品牌。
+主表的备注与商品明细中的独立备注会自动保存。
+导出包含“款式汇总”和“商品明细”，商品明细只使用源表已有字段。
+
+备注与设置：%LOCALAPPDATA%\ProductDesk\data\state.sqlite3
+异常日志：%LOCALAPPDATA%\ProductDesk\data\app.log
+默认导出目录：文档\商品资料台
+
+升级和卸载保留备注与设置。备份 state.sqlite3 时请先关闭程序。
+可在 Windows“设置 → 应用”中卸载，或使用开始菜单中的卸载快捷方式。

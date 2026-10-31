@@ -1,0 +1,68 @@
+# Python 虚拟环境
+.venv/
+venv/
+env/
+ENV/
+
+# Python 字节码、包元数据与工具缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# 本地商品数据、备注数据库、导出文件和验证产物
+/data/
+/outputs/
+/.verification/
+
+# 放在项目根目录的个人商品表；测试目录中的样表可正常提交
+/*.xls
+/*.xlsx
+/*.xlsm
+/*.xlsb
+~$*
+
+# 打包输出和本机下载的构建工具
+/build/
+/dist/
+/.build-tools/
+
+# 本机环境变量与凭据；保留可共享的配置示例
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+/.aws/
+
+# 编辑器的本机配置
+/.vscode/
+/.idea/
+*.code-workspace
+*.swp
+*.swo
+
+# 日志、临时文件与备份
+*.log
+*.log.*
+*.tmp
+*.temp
+*.bak
+*~
+
+# Windows / macOS 自动生成的文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+._*
